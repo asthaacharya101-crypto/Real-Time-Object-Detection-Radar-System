@@ -61,5 +61,6 @@ The system is designed to detect nearby objects, measure distances, and display 
 
 - ## Project Photograph
 
-![Real-Time Object Detection Radar System](real%20time%20object%20detection.jpeg)
+## Project Photograph
 
+![Real-Time Object Detection Radar System](./real%20time%20object%20detection.jpeg)
